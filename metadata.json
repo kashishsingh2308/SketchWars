@@ -1,0 +1,6 @@
+{
+  "name": "Sketch Wars",
+  "description": "Draw Fast. Draw Accurate. Win the War. A 2-player webcam game using real-time air-drawing hand tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
